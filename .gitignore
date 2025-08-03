@@ -1,0 +1,56 @@
+
+# Folders
+.vscode/
+
+# MD Files
+*.MD
+*.md
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#pdf
+*.pdf
+*.pptx
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# json files of node
+.json
+
+
+*.properties
